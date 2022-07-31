@@ -2,7 +2,7 @@
 
 Dr. Haofeng Li is recruiting students that want to pursue PhD/Master degrees in CUHK(SZ). Please check https://haofengli.net
 
-This repository is an official PyTorch implementation of the paper **"Robust Real-World Image Super-Resolution against Adversarial Attacks"** from **ACM MM 2021**.
+This repository is an official PyTorch implementation of the paper **"Robust Real-World Image Super-Resolution against Adversarial Attacks"** from **ACM MM 2021**. If you have any problems about the code, please contact yuejt@mail2.sysu.edu.cn
 
 We provide the training and testing codes, pre-trained models. You can train your model from scratch, or use the pre-trained model.
 
