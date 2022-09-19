@@ -1,4 +1,4 @@
-# Robust Real-World Image Super-Resolution against Adversarial Attacks
+# Robust Real-World Image Super-Resolution against Adversarial Attacks-ACM MM 2021
 
 Dr. Haofeng Li is recruiting students that want to pursue PhD/Master degrees in CUHK(SZ). Please check https://haofengli.net
 
